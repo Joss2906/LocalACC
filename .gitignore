@@ -2,3 +2,6 @@ vendor
 writable/logs
 .env
 .env.local
+writable/cache
+writable/debugbar
+writable/uploads

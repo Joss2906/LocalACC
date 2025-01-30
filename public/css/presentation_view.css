@@ -1,0 +1,143 @@
+body{
+  font-family: 'Arial';
+}
+
+.clientes{
+  height: 50vh;
+}
+
+.img_foto{
+  border-radius: 50%;
+  display: block; 
+  margin: 0 auto; 
+  width: 150px;
+  height: 150px;
+}
+
+.slider_testimonio{
+  margin-left: 5px; 
+  margin-right: 5px;
+  background: #fffaf3; 
+  padding-top: 10px !important; 
+  padding-bottom: 10px !important; 
+  background: white;
+  height: 120vh;
+}
+
+.slider_testimonio .slider_testimonio_imagen{
+  width: 100%;
+  height: 70vh;
+  margin: 0 auto!important;
+}
+
+.slider_testimonio img{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto!important;
+}
+
+.slider_testimonio .slider_testimonio_descripcion{
+  height: 70vh;
+}
+
+.innovaciones h3{
+  color: #bc9b5d;
+  padding: 0px;
+}
+
+.slider_innovacion{
+  width: 300px; 
+  height: 650px !important;
+  margin-left: 5px; 
+  margin-right: 5px; 
+  background: #fffaf3; 
+  padding-top: 10px !important; 
+  padding-bottom: 10px !important; 
+  background: white;
+}
+
+.slider_innovacion .slider_innovacion_imagen{
+  height: 300px;
+}
+
+.slider_innovacion .slider_innovacion_descripcion{
+  height: 200px;
+}
+
+.resolucion h3{
+  color: #bc9b5d;
+  padding: 0px;
+}
+
+.slider_resolucion{
+  margin-left: 5px; 
+  margin-right: 5px; 
+  background: #fffaf3; 
+  padding-top: 10px !important; 
+  padding-bottom: 10px !important; 
+  background: white;
+}
+
+.slider_resolucion .slider_resolucion_imagen{
+  height: 300px;
+}
+
+.slider_resolucion .slider_resolucion_descripcion{
+  height: 350px;
+}
+
+.comentarios h3{
+  color: #bc9b5d;
+  padding: 0px;
+}
+
+.slider-quejas p{
+  font-family: 'Pragati Narrow', sans-serif;
+  color: #bc9b5d;
+}
+
+.slider_comentarios_imagen{
+  width: 150px;
+  height: 150px;
+}
+
+.slider-mecanismos{
+  height: 450px;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.slider-mecanismos .slider-pregunta-respuesta{
+  width: 100%;
+  overflow-y: scroll;
+  height: 450px;
+  background: white;
+  /*padding-top: 20px;*/
+  /*padding-bottom: 20px;*/
+}
+
+.slider-pregunta-respuesta .slider-pregunta{
+  height: 400px;
+}
+
+.slider-pregunta-respuesta .slider-imagen{
+  /*outline: 1px black solid;*/
+  height: 400px;
+}
+
+.slider-mecanismos-dos{
+  height: 450px;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.slider-mecanismos-dos .slider-pregunta-respuesta{
+  width: 100%;
+  overflow-y: scroll;
+  height: 450px;
+  background: white;
+  /*padding-top: 20px;*/
+  /*padding-bottom: 20px;*/
+}

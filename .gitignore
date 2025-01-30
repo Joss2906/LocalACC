@@ -1,0 +1,4 @@
+vendor
+writable/logs
+.env
+.env.local
